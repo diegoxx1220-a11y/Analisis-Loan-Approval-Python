@@ -32,6 +32,13 @@ Analizar las características de los solicitantes de crédito mediante estadíst
 - Consultas SQL utilizando DuckDB.
 - Hallazgos y conclusiones.
 
+## Cómo ejecutar el notebook
+
+1. Descarga el archivo `Trabajo_Final_SQL_Python_Diego.ipynb` y el archivo `Copy of loan.xlsx` de este repositorio.
+2. Abre el notebook en [Google Colab](https://colab.research.google.com/) (Archivo → Subir notebook) o en Jupyter Notebook/JupyterLab de forma local.
+3. Ejecuta las celdas en orden. Al llegar a la celda de carga de datos, sube el archivo `Copy of loan.xlsx` cuando se solicite.
+4. Todas las celdas están listas para ejecutarse sin necesidad de configuración adicional.
+
 ## Autor
 
 **Diego Ching Pinto**
